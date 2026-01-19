@@ -1,0 +1,7 @@
+{
+  "name": "Global Passport Photo Booth",
+  "description": "A professional passport photo creation tool supporting multiple country standards with AI-assisted adjustments and precise cropping.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
